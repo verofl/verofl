@@ -1,4 +1,4 @@
-![octocat-1697408462280](https://github.com/verofl/verofl/assets/106299446/8997eb39-b046-48e0-ab6e-9b491ce9c6ff)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/veronica-flatto) 
 
