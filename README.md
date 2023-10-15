@@ -16,5 +16,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<img src="octocat-1697408462280.png" alt="Girl in a jacket" width="500" height="600">
+<img src="octocat-1697408462280.png" alt="Custom Octocat" width="500" height="600">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
