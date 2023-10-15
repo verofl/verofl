@@ -17,7 +17,7 @@
 
 
 <div align="center">
-    <img src="1.png" alt="Girl drinking coffee with pink blanket wrapped around" width="40" height="50">
+    <img src="1.png" alt="Girl drinking coffee with pink blanket wrapped around" width="70" height="50">
 </div>
 
 
