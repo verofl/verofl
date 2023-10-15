@@ -16,8 +16,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="octocat-1697408462280.png" alt="Custom Octocat" width="500" height="600" style="display: block; margin: auto;">
+<div align="center">
+    <img src="octocat-1697408462280.png" alt="Custom Octocat" width="500" height="600">
 </div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
