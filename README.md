@@ -17,7 +17,7 @@
 
 
 <div align="center">
-    <img src="octocat-1697408462280.png" alt="Custom Octocat" width="40" height="50">
+    <img src="1.png" alt="Girl drinking coffee with pink blanket wrapped around" width="40" height="50">
 </div>
 
 
