@@ -16,9 +16,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<div align="center">
-    <img src="1.png" alt="Girl drinking coffee with pink blanket wrapped around" width="70" height="50">
-</div>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
