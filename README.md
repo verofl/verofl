@@ -1,4 +1,4 @@
-![Header](github-header-image2.png)
+![Header](github-header-image3.png)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/veronica-flatto) 
 
