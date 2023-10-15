@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Veronica</h1>
+<h1 align="center" style="color: #faeae9;">Hi 👋, I'm Veronica</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
 <h3 align="left">Connect with me:</h3>
