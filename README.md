@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=EBBCBA&vCenter=true&random=false&width=435&lines=Hi!+I'm+Veronica)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=EBBCBA&vCenter=true&random=false&width=470&lines=Hi!+Im+Veronica;Welcome+to+my+profile!+%E2%98%BA%EF%B8%8F)](https://git.io/typing-svg)
 
 # 🫧 <span style="color:#ebbcba">About Me</span> 🫧
 <p>I am a passionate software engineer with a background in full-stack development, holding a BA in Psychology from UC Irvine and a Full Stack Web Development certification from App Academy. My expertise includes JavaScript, Python, Flask, React, Redux, SQL, and more. I have successfully developed projects like Pinterest, Airbnb, and UberEats clones, showcasing my skills in both frontend and backend development.</p>
