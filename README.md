@@ -13,7 +13,7 @@
 </br>
 [![Static Badge](https://img.shields.io/badge/-Portfolio%26logoColor%3Dwhite?style=flat&logo=github&logoColor=white&label=Portfolio&labelColor=%23c4a7e7&color=%23c4a7e7)](https://verofl.github.io/)
 
-# 🫧 <span style="color:#9ccfd8">Tech Stack</span> 🫧
+# 🫧 <span style="color:#9ccfd8">Skills</span> 🫧
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white&labelColor=%23ebbcba&color=%23ebbcba)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white&labelColor=%23ebbcba&color=%23ebbcba)
